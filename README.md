@@ -3,7 +3,7 @@
 A dynamic task management application built with Vanilla JavaScript. This project focuses on the "Create" and "Delete" aspects of CRUD operations, providing a seamless user interface for daily task tracking.
 
 ## 🚀 Live Demo
-*(Insert your GitHub Pages link here)*
+
 
 ## ✨ Key Features
 - **Task Creation:** Add tasks instantly via the "Add" button or by pressing the `Enter` key.
